@@ -1,7 +1,5 @@
 # Drawing Board
 
-## Overview
-
 This project includes an interactive drawing board implemented using RxJS. Users can draw on an HTML canvas element using their mouse.
 
 ### Features
